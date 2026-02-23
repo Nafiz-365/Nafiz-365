@@ -63,14 +63,14 @@ I aim to combine **clean architecture**, **performance**, and **security-first d
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,kotlin" />
 
-### ⚛️ MERN Stack
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+### ⚛️ MERN Stack & Frontend
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,bootstrap,nextjs,vite" />
 
 ### 🗄 Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" />
 
 ### 🧰 Tools, IDEs & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,postman,linux,vscode,sublime,atom,eclipse,docker,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,postman,linux,vscode,sublime,atom,eclipse,docker,aws,eslint,prettier,npm,yarn" />
 
 ---
 
