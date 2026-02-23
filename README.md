@@ -24,15 +24,23 @@
 ---
 I am a **Full Stack MERN Developer** focused on building  
 **scalable, secure, and production-ready web applications.**
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div style="overflow: auto;">
 
-Currently focused on:
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+       align="right" width="350" style="margin-left: 40px; margin-bottom: 20px;" />
 
-- ⚛️ Building modern React applications  
-- 🌐 Developing REST APIs using Node.js & Express  
-- 🗄 Designing efficient MongoDB & SQL database systems  
-- 🛡 Learning Cybersecurity fundamentals & Kali Linux  
-- 🔐 Applying secure coding principles in web applications  
+  <div style="text-align: justify; margin-right: 40px;">
+    <strong>Currently focused on:</strong>
+    <ul>
+      <li>⚛️ Building modern React applications</li>
+      <li>🌐 Developing REST APIs using Node.js & Express</li>
+      <li>🗄 Designing efficient MongoDB & SQL database systems</li>
+      <li>🛡 Learning Cybersecurity fundamentals & Kali Linux</li>
+      <li>🔐 Applying secure coding principles in web applications</li>
+    </ul>
+  </div>
+
+</div>  
 
 
 I aim to combine **clean architecture**, **performance**, and **security-first development**.
