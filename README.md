@@ -19,9 +19,9 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-
+---
 ## 🧠 About Me
-
+---
 I am a **Full Stack MERN Developer** focused on building  
 **scalable, secure, and production-ready web applications.**
 
