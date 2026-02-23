@@ -17,13 +17,14 @@
 
 ---
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ---
 ## 🧠 About Me
 ---
 I am a **Full Stack MERN Developer** focused on building  
 **scalable, secure, and production-ready web applications.**
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 Currently focused on:
 
@@ -32,6 +33,7 @@ Currently focused on:
 - 🗄 Designing efficient MongoDB & SQL database systems  
 - 🛡 Learning Cybersecurity fundamentals & Kali Linux  
 - 🔐 Applying secure coding principles in web applications  
+
 
 I aim to combine **clean architecture**, **performance**, and **security-first development**.
   <p align= "left">
