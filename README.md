@@ -69,8 +69,8 @@ I aim to combine **clean architecture**, **performance**, and **security-first d
 ### 🗄 Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" />
 
-### 🧰 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,postman,linux" />
+### 🧰 Tools, IDEs & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,postman,linux,vscode,sublime,atom,eclipse,docker,aws" />
 
 ---
 
