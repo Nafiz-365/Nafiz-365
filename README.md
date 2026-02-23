@@ -3,6 +3,10 @@
 
 ---
 
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Nafiz Kamal Talha</strong>
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Nafiz+Kamal+Talha;Full+Stack+MERN+Engineer;Secure+System+Builder;React+%7C+Node+%7C+MongoDB;Clean+Code+%7C+Scalable+Architecture" />
 </p>
@@ -14,6 +18,7 @@
 ---
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ## 🧠 About Me
 
@@ -29,6 +34,15 @@ Currently focused on:
 - 🔐 Applying secure coding principles in web applications  
 
 I aim to combine **clean architecture**, **performance**, and **security-first development**.
+  <p align= "left">
+    <img src="https://img.shields.io/badge/🌍_Bangladesh-1e1e2e?style=for-the-badge" />
+    <a href="mailto:nafizkamaltalha2494@gmail.com"><img src="https://img.shields.io/badge/📧_nafizkamaltalha2494@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+
+    
+
+  </p>
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 <br clear="right"/>
 
@@ -47,6 +61,44 @@ I aim to combine **clean architecture**, **performance**, and **security-first d
 
 ### 🧰 Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,postman,linux" />
+
+---
+
+---
+
+# 🏆 Competitive Programming Profiles
+
+<p align="center">
+
+<a href="https://codeforces.com/profile/Nafiz_365">
+  <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Nafiz_365/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/nafiz_365">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/Nafiz_365">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://judge.beecrowd.com/en/profile/1034232">
+  <img src="https://img.shields.io/badge/BeeCrowd-FF6F00?style=for-the-badge"/>
+</a>
+
+<a href="https://www.codewars.com/users/Nafiz-365">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
+</a>
+
+<a href="https://vjudge.net/user/Nafiz_365">
+  <img src="https://img.shields.io/badge/VJudge-0A0A0A?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
