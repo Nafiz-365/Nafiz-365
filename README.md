@@ -1,8 +1,6 @@
 <!-- ================= HERO SECTION ================= -->
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
----
-
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Nafiz Kamal Talha</strong>
@@ -17,16 +15,14 @@
 
 ---
 
-
-
----
 ## 🧠 About Me
----
+
 I am a **Full Stack MERN Developer** focused on building  
 **scalable, secure, and production-ready web applications.**
+
 <div style="overflow: auto;">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
        align="right" width="350" style="margin-left: 40px; margin-bottom: 20px;" />
 
   <div style="text-align: justify; margin-right: 40px;">
@@ -40,19 +36,16 @@ I am a **Full Stack MERN Developer** focused on building
     </ul>
   </div>
 
-</div>  
-
+</div>
 
 I aim to combine **clean architecture**, **performance**, and **security-first development**.
+
   <p align= "left">
     <img src="https://img.shields.io/badge/🌍_Bangladesh-1e1e2e?style=for-the-badge" />
     <a href="mailto:nafizkamaltalha2494@gmail.com"><img src="https://img.shields.io/badge/📧_nafizkamaltalha2494@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
 
-    
-
   </p>
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 <br clear="right"/>
 
@@ -61,18 +54,20 @@ I aim to combine **clean architecture**, **performance**, and **security-first d
 # 🛠 Tech Stack
 
 ### 💻 Languages
+
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,kotlin" />
 
 ### ⚛️ MERN Stack & Frontend
+
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,bootstrap,nextjs,vite" />
 
 ### 🗄 Databases
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" />
 
 ### 🧰 Tools, IDEs & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,postman,linux,vscode,sublime,atom,eclipse,docker,aws,eslint,prettier,npm,yarn" />
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,postman,linux,vscode,sublime,atom,eclipse,docker,aws,eslint,prettier,npm,yarn" />
 
 ---
 
@@ -122,7 +117,6 @@ I aim to combine **clean architecture**, **performance**, and **security-first d
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nafiz-365&theme=tokyonight" />
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nafiz-365&theme=tokyo-night&hide_border=true" />
 </p>
@@ -152,6 +146,7 @@ I aim to combine **clean architecture**, **performance**, and **security-first d
 <a href="mailto:nafizkamaltalha2494@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+  <img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 </p>
 
@@ -160,3 +155,5 @@ I aim to combine **clean architecture**, **performance**, and **security-first d
 <p align="center">
   ⚡ <strong>Build Scalable. Secure Everything. Keep Learning.</strong>
 </p>
+
+---
