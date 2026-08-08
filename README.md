@@ -60,33 +60,33 @@
   <p>
     <strong>💻 Languages:</strong> <br/>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,java,js,python,kotlin&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,java,js,python,kotlin&theme=light">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,kotlin&theme=dark" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=light">
+      <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=dark" />
     </picture>
   </p>
   <p>
     <strong>🌐 Frontend & Backend:</strong> <br/>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express&theme=light">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express&theme=dark" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=light">
+      <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=dark" />
     </picture>
   </p>
   <p>
     <strong>🗄️ Databases:</strong> <br/>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=light">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=light">
+      <img src="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=dark" />
     </picture>
   </p>
   <p>
     <strong>⚙️ Tools:</strong> <br/>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vercel,postman,linux,vscode,docker,aws&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vercel,postman,linux,vscode,docker,aws&theme=light">
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,linux,vscode,docker,aws&theme=dark" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=light">
+      <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=dark" />
     </picture>
   </p>
 </div>
