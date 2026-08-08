@@ -150,7 +150,7 @@
 <div align="center">
   <h2><img src="https://api.iconify.design/lucide/link.svg?color=%233B82F6" width="24" align="absmiddle"/> Connect With Me</h2>
   <a href="https://www.linkedin.com/in/nafiz-kamal-talha-07ba86327/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/being_nafiz365.exe/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.instagram.com/nafiz_365_captures/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.youtube.com/@Nafiz-365"><img src="https://www.svgrepo.com/show/475700/youtube-color.svg" width="50"/></a>
   <a href="https://www.facebook.com/profile.php?id=61587223434641"><img src="https://www.svgrepo.com/show/452196/facebook-1.svg" width="50"/></a>
   <a href="mailto:nafizkamaltalha2494@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
