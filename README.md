@@ -28,7 +28,11 @@
 
 <br/>
 
-<img align="right" src="./nafiz-lanyard.svg" alt="Nafiz ID badge" width="250"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./nafiz-lanyard.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./nafiz-lanyard-light.svg">
+  <img align="right" src="./nafiz-lanyard.svg" alt="Nafiz ID badge" width="250" />
+</picture>
 
 <h2>🧠 About Me</h2>
 <p>I am a <strong>Full Stack MERN Developer</strong> focused on building <strong>scalable, secure, and production-ready web applications.</strong></p>
@@ -55,19 +59,35 @@
   <h2>🛠 Tech Stack</h2>
   <p>
     <strong>💻 Languages:</strong> <br/>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,kotlin" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,java,js,python,kotlin&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,java,js,python,kotlin&theme=light">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,kotlin&theme=dark" />
+    </picture>
   </p>
   <p>
     <strong>🌐 Frontend & Backend:</strong> <br/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express&theme=light">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express&theme=dark" />
+    </picture>
   </p>
   <p>
     <strong>🗄️ Databases:</strong> <br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=light">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" />
+    </picture>
   </p>
   <p>
     <strong>⚙️ Tools:</strong> <br/>
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,linux,vscode,docker,aws" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vercel,postman,linux,vscode,docker,aws&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vercel,postman,linux,vscode,docker,aws&theme=light">
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,linux,vscode,docker,aws&theme=dark" />
+    </picture>
   </p>
 </div>
 
@@ -119,9 +139,9 @@
 
   <!-- 🐍 GitHub Snake Animation -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nafiz-365/Nafiz-365/output/dist/github-snake-pink.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nafiz-365/Nafiz-365/output/dist/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Nafiz-365/Nafiz-365/output/dist/github-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nafiz-365/Nafiz-365/output/github-snake-pink.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nafiz-365/Nafiz-365/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Nafiz-365/Nafiz-365/output/github-snake.svg" width="100%">
   </picture>
 </div>
 
