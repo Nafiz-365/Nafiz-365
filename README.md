@@ -23,7 +23,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=3B82F6&center=true&vCenter=true&width=900&lines=Nafiz+Kamal+Talha;Full+Stack+MERN+Engineer;Secure+System+Builder;React+%7C+Node+%7C+MongoDB;Clean+Code+%7C+Scalable+Architecture" alt="Typing SVG" width="100%" />
     </picture>
   </p>
-  <h3>🚀 MERN Developer | 🛡 Security Learner | 💡 Problem Solver</h3>
+  <h3>MERN Developer | Security Learner | Problem Solver</h3>
 </div>
 
 <br/>
@@ -34,31 +34,31 @@
   <img align="right" src="./nafiz-lanyard.svg" alt="Nafiz ID badge" width="250" />
 </picture>
 
-<h2>🧠 About Me</h2>
+<h2><img src="https://api.iconify.design/lucide/user.svg?color=%233B82F6" width="24" align="absmiddle"/> About Me</h2>
 <p>I am a <strong>Full Stack MERN Developer</strong> focused on building <strong>scalable, secure, and production-ready web applications.</strong></p>
 
 <p><strong>Currently focused on:</strong></p>
 <ul>
-  <li>⚛️ Building modern React applications</li>
-  <li>🌐 Developing REST APIs using Node.js & Express</li>
-  <li>🗄 Designing efficient MongoDB & SQL database systems</li>
-  <li>🛡 Learning Cybersecurity fundamentals & Kali Linux</li>
-  <li>🔐 Applying secure coding principles in web applications</li>
+  <li><img src="https://api.iconify.design/lucide/code.svg?color=%233B82F6" width="16" align="absmiddle"/> Building modern React applications</li>
+  <li><img src="https://api.iconify.design/lucide/server.svg?color=%233B82F6" width="16" align="absmiddle"/> Developing REST APIs using Node.js & Express</li>
+  <li><img src="https://api.iconify.design/lucide/database.svg?color=%233B82F6" width="16" align="absmiddle"/> Designing efficient MongoDB & SQL database systems</li>
+  <li><img src="https://api.iconify.design/lucide/shield.svg?color=%233B82F6" width="16" align="absmiddle"/> Learning Cybersecurity fundamentals & Kali Linux</li>
+  <li><img src="https://api.iconify.design/lucide/lock.svg?color=%233B82F6" width="16" align="absmiddle"/> Applying secure coding principles in web applications</li>
 </ul>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🌍_Bangladesh-1e1e2e?style=for-the-badge" />
-  <a href="mailto:nafizkamaltalha2494@gmail.com"><img src="https://img.shields.io/badge/📧_nafizkamaltalha2494@gmail.com-1e1e2e?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/Location-Bangladesh-1e1e2e?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <a href="mailto:nafizkamaltalha2494@gmail.com"><img src="https://img.shields.io/badge/Email-nafizkamaltalha2494@gmail.com-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br/>
-  <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_To-Collab_(Web_Development)-1e1e2e?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
 <br clear="both"/>
 
 <div align="center">
-  <h2>🛠 Tech Stack</h2>
+  <h2><img src="https://api.iconify.design/lucide/layers.svg?color=%233B82F6" width="24" align="absmiddle"/> Tech Stack</h2>
   <p>
-    <strong>💻 Languages:</strong> <br/>
+    <strong>Languages:</strong> <br/>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=light">
@@ -66,7 +66,7 @@
     </picture>
   </p>
   <p>
-    <strong>🌐 Frontend & Backend:</strong> <br/>
+    <strong>Frontend & Backend:</strong> <br/>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=light">
@@ -74,7 +74,7 @@
     </picture>
   </p>
   <p>
-    <strong>🗄️ Databases:</strong> <br/>
+    <strong>Databases:</strong> <br/>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=light">
@@ -82,7 +82,7 @@
     </picture>
   </p>
   <p>
-    <strong>⚙️ Tools:</strong> <br/>
+    <strong>Tools:</strong> <br/>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=light">
@@ -94,7 +94,7 @@
 <br/>
 
 <div align="center">
-  <h2>🏆 Competitive Programming Profiles</h2>
+  <h2><img src="https://api.iconify.design/lucide/trophy.svg?color=%233B82F6" width="24" align="absmiddle"/> Competitive Programming Profiles</h2>
   <a href="https://codeforces.com/profile/Nafiz_365"><img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Nafiz_365/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.codechef.com/users/nafiz_365"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
@@ -107,7 +107,7 @@
 <br/>
 
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
+  <h2><img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%233B82F6" width="24" align="absmiddle"/> GitHub Analytics</h2>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Nafiz-365&theme=tokyonight&hide_border=true">
@@ -148,7 +148,7 @@
 <br/>
 
 <div align="center">
-  <h2>🌐 Connect With Me</h2>
+  <h2><img src="https://api.iconify.design/lucide/link.svg?color=%233B82F6" width="24" align="absmiddle"/> Connect With Me</h2>
   <a href="https://www.linkedin.com/in/nafiz-kamal-talha-07ba86327/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.instagram.com/being_nafiz365.exe/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.youtube.com/@Nafiz-365"><img src="https://www.svgrepo.com/show/475700/youtube-color.svg" width="50"/></a>
@@ -157,3 +157,4 @@
   <br/><br/>
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" />
 </div>
+
