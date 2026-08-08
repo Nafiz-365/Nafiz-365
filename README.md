@@ -28,13 +28,11 @@
 
 <br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./nafiz-lanyard.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./nafiz-lanyard-light.svg">
-    <img src="./nafiz-lanyard.svg" alt="Nafiz ID badge" width="250" />
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./nafiz-lanyard.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./nafiz-lanyard-light.svg">
+  <img align="right" src="./nafiz-lanyard.svg" alt="Nafiz ID badge" width="220" />
+</picture>
 
 <h2><img src="https://api.iconify.design/lucide/user.svg?color=%233B82F6" width="24" align="absmiddle"/> About Me</h2>
 <p>I am a <strong>Full Stack MERN Developer</strong> focused on building <strong>scalable, secure, and production-ready web applications.</strong></p>
@@ -62,33 +60,33 @@
   <p>
     <strong>Languages:</strong> <br/>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=dark&perline=3">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=light&perline=3">
-      <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=dark&perline=3" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=light">
+      <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=dark" />
     </picture>
   </p>
   <p>
     <strong>Frontend & Backend:</strong> <br/>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=dark&perline=3">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=light&perline=3">
-      <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=dark&perline=3" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=light">
+      <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=dark" />
     </picture>
   </p>
   <p>
     <strong>Databases:</strong> <br/>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=dark&perline=4">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=light&perline=4">
-      <img src="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=dark&perline=4" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=light">
+      <img src="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=dark" />
     </picture>
   </p>
   <p>
     <strong>Tools:</strong> <br/>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=dark&perline=4">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=light&perline=4">
-      <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=dark&perline=4" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=light">
+      <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=dark" />
     </picture>
   </p>
 </div>
@@ -116,13 +114,13 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Nafiz-365&theme=default&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nafiz-365&theme=default&hide_border=true" />
   </picture>
-  
+  &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nafiz-365&theme=tokyonight">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nafiz-365&theme=default">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nafiz-365&theme=default" alt="Profile Summary" />
   </picture>
-  
+  &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nafiz-365&theme=tokyonight">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nafiz-365&theme=default">
