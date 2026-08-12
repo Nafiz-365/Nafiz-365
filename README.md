@@ -2,19 +2,18 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Nafiz-365&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
-  <img alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%"/>
-  <h1 align="center">
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" />
-    Hi, I'm <strong>Nafiz Kamal Talha</strong>
-  </h1>
-  
-  <p align="center">
+    <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./scanner-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./scanner-light.svg">
       <img src="./scanner-light.svg" width="100%" alt="Scanning Animation" />
     </picture>
   </p>
+  <img alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%"/>
+  <h1 align="center">
+    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" />
+    Hi, I'm <strong>Nafiz Kamal Talha</strong>
+  </h1>
 
   <p align="center">
     <picture>
