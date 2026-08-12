@@ -127,7 +127,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nafiz-365&theme=default" alt="Top Languages" />
   </picture>
 
-  <br/><br/>
+<br/><br/>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nafiz-365&theme=tokyo-night&hide_border=true">
@@ -135,10 +135,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nafiz-365&theme=default&hide_border=true" width="100%"/>
   </picture>
 
-  <br/><br/>
+<br/><br/>
 
   <!-- 🐍 GitHub Snake Animation -->
   <picture>
+  <h3><code>nafiz-365@github ~ $ whoami</code></h3>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nafiz-365/Nafiz-365/output/github-snake-pink.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nafiz-365/Nafiz-365/output/github-snake.svg">
     <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Nafiz-365/Nafiz-365/output/github-snake.svg" width="100%">
@@ -157,4 +158,3 @@
   <br/><br/>
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" />
 </div>
-
