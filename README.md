@@ -27,12 +27,6 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./nafiz-lanyard.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./nafiz-lanyard-light.svg">
-  <img align="right" src="./nafiz-lanyard.svg" alt="Nafiz ID badge" width="220" />
-</picture>
-
 <h2><img src="https://api.iconify.design/lucide/user.svg?color=%233B82F6" width="24" align="absmiddle"/> About Me</h2>
 <p>I am a <strong>Full Stack MERN Developer</strong> focused on building <strong>scalable, secure, and production-ready web applications.</strong></p>
 
